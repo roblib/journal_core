@@ -1,0 +1,7 @@
+{
+    "name":"islandora-rdm/journal_core",
+    "description":"Shared classes and functions for the Journal project..",
+    "type":"drupal-module",
+    "license":"GPL-2.0-or-later",
+    "prefer-stable":true
+}
