@@ -1,0 +1,10 @@
+name: 'Journal Core'
+type: module
+description: 'Functions shared by other journal modules.'
+core_version_requirement: '^8.0 || ^9'
+package: 'Journal'
+dependencies:
+  - bibcite:bibcite_entity
+  - drupal:text
+  - field
+
